@@ -1,0 +1,60 @@
+
+
+
+/*nav bar*/
+.navcont
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+}
+nav p
+{
+    margin: 10px;
+}
+
+/*main page*/
+.mainbox
+{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.googleimg
+{
+    height: 120px;
+}
+form
+{
+    margin-top: 50px;
+}
+.search
+{
+    border: 2px solid rgb(176, 176, 176);
+    width: 450px;
+    height: 40px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.searchicons
+{
+    height: 35px;
+    margin: 0px 5px 0px 5px;
+}
+#input
+{
+    border: 0px solid rgb(103, 103, 103);
+    height: 40px;
+    width: 300px;
+}
+.shortcuts
+{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
